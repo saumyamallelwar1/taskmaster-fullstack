@@ -1,0 +1,18 @@
+taskmaster-fullstack/
+├── .gitignore  ← Save here (in ROOT folder)
+└── postman/
+
+
+**In VS Code:**
+1. In **root folder**, create file: `.gitignore`
+2. Copy the gitignore content (everything under `#### 20. **.gitignore**`)
+
+---
+
+## 🎯 **OR Save as One Reference File (Optional)**
+
+If you want to keep this as a **reference document** for yourself:
+
+### **File Name:**
+
+PROJECT_FILES_REFERENCE.md

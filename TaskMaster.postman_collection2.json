@@ -1,0 +1,18 @@
+# In your project root, create postman folder
+taskmaster-fullstack/
+└── postman/
+    └── TaskMaster.postman_collection.json  ← Save here
+
+
+**In VS Code:**
+1. Create folder: `postman` in root
+2. Inside `postman` folder, create file: `TaskMaster.postman_collection.json`
+3. Copy **ONLY** the JSON content (lines starting from first `{` to last `}`)
+
+---
+
+## 📄 **File 2: Git Ignore**
+
+### **File Name:**
+
+.gitignore
