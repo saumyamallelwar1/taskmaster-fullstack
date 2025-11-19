@@ -482,7 +482,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 Backend Developer Intern Assignment
-**Your Name** - [GitHub](https://github.com/yourusername)
+**Saumya Mallelwar** - [GitHub](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
@@ -513,7 +513,7 @@ npm start
 
 ## 📞 Support
 
-For support, email your.email@example.com or open an issue in the repository.
+For support, email saumyamallelwar28@gmail.com or open an issue in the repository.
 
 ## 🔄 API Response Format
 
@@ -553,5 +553,6 @@ Import the Postman collection for easy API testing:
 4. After login, set the `TOKEN` variable with your JWT token
 
 ---
+
 
 **Built with ❤️ for the Backend Developer Intern Assignment**
